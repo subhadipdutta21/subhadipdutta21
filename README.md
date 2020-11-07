@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... dsubhadip21@gmail.com, [linkedin] (https://www.linkedin.com/in/subhadip-dutta-71a151193/)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... CARPE DIEM
--->
