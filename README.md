@@ -6,7 +6,7 @@
 - 💬 Ask me about ... React_NextJS_NodeJS_GraphQL
 - 📫 How to reach me: ... dsubhadip21@gmail.com, [linkedin] (https://www.linkedin.com/in/subhadip-dutta-71a151193/)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... CARPE DIEM
+- ⚡ CARPE DIEM
 
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 
